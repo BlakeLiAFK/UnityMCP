@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go mod:*)",
+      "Bash(go build:*)",
+      "Bash(go doc:*)",
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(timeout:*)",
+      "Bash(true)",
+      "Bash(gtimeout:*)",
+      "Bash(grep:*)",
+      "Bash(make:*)",
+      "Bash(rg:*)",
+      "Bash(find:*)"
+    ],
+    "deny": []
+  }
+}
